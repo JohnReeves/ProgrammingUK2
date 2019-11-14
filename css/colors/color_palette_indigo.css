@@ -1,0 +1,57 @@
+/*------------------------------------------------------------------
+[Stylesheet]
+Color Palette - Indigo
+-------------------------------------------------------------------*/
+
+.btn,
+.btn-large {
+	background-color: #E53935;
+}
+
+.btn:hover,
+.btn-large:hover {
+	background-color: #D32F2F;
+}
+
+
+.btn2 {
+	background-color: #2196F3;
+}
+
+.btn2:hover {
+	background-color: #1976D2;
+}
+
+.btn3 {
+	background-color: #FAFAFA;
+	color:#212121;
+}
+.btn3:hover{
+	background-color: #CFD8DC;
+	color: #212121;
+}
+
+.hero_fullscreen.background_solid,
+.color_bg {
+	background-color: #3f51b5;
+}
+
+.alternate_bg {
+	background-color: #D32F2F;
+	color:#fff;
+}
+
+.alternate_bg2 {
+	background-color: #4CAF50;
+	color:#fff;
+}
+
+.alternate_bg3 {
+	background-color: #FAFAFA;
+	color:#212121;
+}
+
+
+a {
+	color:#f44336
+}
